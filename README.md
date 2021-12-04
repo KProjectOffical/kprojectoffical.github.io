@@ -1,5 +1,7 @@
 # Project K official NFT project page
 
+![Code is ART](https://kprojectoffical.github.io/project-k-manifesto/code%20is%20art.png)
+
 Check our [manifesto](https://kprojectoffical.github.io/project-k-manifesto/)!
 
 Our projects:
