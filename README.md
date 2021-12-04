@@ -6,6 +6,7 @@ Our projects:
 
 - K0, the genesis project with [K1](https://portion.io/app.html#exchange?ID=QmcudkUaqDSrJbxopYHejHxzHfAGE77487PBczwrv4i84q&chainID=11297108109), [K2](https://portion.io/app.html#exchange?ID=QmUfS8osdpsBufHHcxCrufDHtcmuwXKqSPG9jMiSPW9CG5&chainID=11297108109) and [K3](https://portion.io/app.html#exchange?ID=QmSSKRkJ4kpSifQXLcYhiGTLNfTEtrSEHBpgJXZ7q2WTZd&chainID=11297108109)
 - [Advent Klendr](https://kprojectoffical.github.io/Klendr/), the pre-Christmas project that was planned to be more but became less but is still a lot.
+
   <img width="200" src="https://user-images.githubusercontent.com/94228401/144689251-dd04e950-23f4-4d82-bad3-65d4e4ac97de.png" />
   <img width="200" alt="Capture d’écran 2021-12-02 à 20 07 58" src="https://user-images.githubusercontent.com/94228401/144689189-cc24c841-0f02-4618-a7a2-2f55558f52f1.png">
   <img width="200" alt="Capture d’écran 2021-12-03 à 18 35 43" src="https://user-images.githubusercontent.com/94228401/144689202-a1b2432e-ec42-40c4-a17c-2daccd9e7829.png">
