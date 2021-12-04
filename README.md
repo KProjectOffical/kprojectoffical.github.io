@@ -1,5 +1,3 @@
-# Project K official NFT project page
-
 ![Code is ART](/project-k-manifesto/code%20is%20art.png)
 
 Check our [manifesto](project-k-manifesto)!
