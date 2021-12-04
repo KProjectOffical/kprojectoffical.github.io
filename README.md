@@ -1,15 +1,15 @@
 # Project K official NFT project page
 
-![Code is ART](https://kprojectoffical.github.io/project-k-manifesto/code%20is%20art.png)
+![Code is ART](/project-k-manifesto/code%20is%20art.png)
 
-Check our [manifesto](https://kprojectoffical.github.io/project-k-manifesto/)!
+Check our [manifesto](project-k-manifesto)!
 
 Our projects:
 
 - K0, the genesis project with [K1](https://portion.io/app.html#exchange?ID=QmcudkUaqDSrJbxopYHejHxzHfAGE77487PBczwrv4i84q&chainID=11297108109), [K2](https://portion.io/app.html#exchange?ID=QmUfS8osdpsBufHHcxCrufDHtcmuwXKqSPG9jMiSPW9CG5&chainID=11297108109) and [K3](https://portion.io/app.html#exchange?ID=QmSSKRkJ4kpSifQXLcYhiGTLNfTEtrSEHBpgJXZ7q2WTZd&chainID=11297108109)
-- [Advent Klendr](https://kprojectoffical.github.io/Klendr/), the pre-Christmas project that was planned to be more but became less but is still a lot.
+- [Advent Klendr](Klendr), the pre-Christmas project that was planned to be more but became less but is still a lot.
 
-  ![Klendr Day 1](https://kprojectoffical.github.io/Klendr/day1_thumb.png) ![Klendr Day 2](https://kprojectoffical.github.io/Klendr/day2_thumb.png) ![Klendr Day 3](https://kprojectoffical.github.io/Klendr/day3_thumb.png)
+  ![Klendr Day 1](Klendr/day1_thumb.png) ![Klendr Day 2](day2_thumb.png) ![Klendr Day 3](day3_thumb.png)
 
 
   - in progress: 24 NFTs until Dec. 24th. Check the website for infos on supply and prices.
