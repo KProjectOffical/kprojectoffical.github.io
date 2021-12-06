@@ -30,7 +30,7 @@ The price is also linked to the supply of course.
 
 ## Buy the NFTs on [Portion](https://portion.io/nft-marketplace?category=&collection=&artist=ProjectK&chains=Palm&sortBy=newest)
 
-| [![Day 1](day1_thumb.png)](https://portion.io/app.html#exchange?ID=QmYwxXgaoWigHypN6oHxUGuUWBSyTohEGhywcBZ9tDhvu2&chainID=11297108109) | [![Day 2](day2_thumb.png)](https://portion.io/app.html#exchange?ID=QmNoSnhQkjVcavebMCNvZ3sY3Y6eDVC5xZYdYEvravNcCN&chainID=11297108109) | [![Day 3](day3_thumb.png)](https://portion.io/app.html#exchange?ID=Qmb5b6iXnQcCp9x3XH1sZ7MsG5wjSHi4g4wzJRxvwnhyuR&chainID=11297108109) | [![Day 4](day4_thumb.png)](https://portion.io/app.html#exchange?ID=QmfCamLJ8ntwbvh3gNX8q9yPkLJRQV877S7erDCs5MFSKL&chainID=11297108109) | [!(day5_thumb.png)](https://portion.io/app.html#exchange?ID=QmdnA19C9ugL1VHvXCyS6o6MFxUqSSyxKw6qcdGUhGXgnT&chainID=11297108109)  | ![Day 6](dummy.png)  |
+| [![Day 1](day1_thumb.png)](https://portion.io/app.html#exchange?ID=QmYwxXgaoWigHypN6oHxUGuUWBSyTohEGhywcBZ9tDhvu2&chainID=11297108109) | [![Day 2](day2_thumb.png)](https://portion.io/app.html#exchange?ID=QmNoSnhQkjVcavebMCNvZ3sY3Y6eDVC5xZYdYEvravNcCN&chainID=11297108109) | [![Day 3](day3_thumb.png)](https://portion.io/app.html#exchange?ID=Qmb5b6iXnQcCp9x3XH1sZ7MsG5wjSHi4g4wzJRxvwnhyuR&chainID=11297108109) | [![Day 4](day4_thumb.png)](https://portion.io/app.html#exchange?ID=QmfCamLJ8ntwbvh3gNX8q9yPkLJRQV877S7erDCs5MFSKL&chainID=11297108109) | [![Day 5](day5_thumb.png)](https://portion.io/app.html#exchange?ID=QmdnA19C9ugL1VHvXCyS6o6MFxUqSSyxKw6qcdGUhGXgnT&chainID=11297108109)  | ![Day 6](dummy.png)  |
 |----|----|----|----|----|----|
 | ![Day 7](dummy.png)  | ![Day 8](dummy.png)  | ![Day 9](dummy.png)  | ![Day 10](dummy.png) | ![Day 11](dummy.png) | ![Day 12](dummy.png) |
 | ![Day 13](dummy.png) | ![Day 14](dummy.png) | ![Day 15](dummy.png) | ![Day 16](dummy.png) | ![Day 17](dummy.png) | ![Day 18](dummy.png) |
@@ -90,6 +90,7 @@ Ah Ah, no. But you are right, it deserves credit:
 - [cottonbro from Pexels](https://www.pexels.com/@cottonbro)
 - [Andrea Piacquadio from Pexels](https://www.pexels.com/@olly)
 - [Monstera from Pexels](https://www.pexels.com/@gabby-k)
+- [Mati Mango from Pexels](https://www.pexels.com/@mati)
 
 ### Why don't you have a nice designed website?
 
