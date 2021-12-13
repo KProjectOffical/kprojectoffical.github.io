@@ -32,7 +32,7 @@ The price is also linked to the supply of course.
 
 | [![Day 1](day1_thumb.png)](https://portion.io/app.html#exchange?ID=QmYwxXgaoWigHypN6oHxUGuUWBSyTohEGhywcBZ9tDhvu2&chainID=11297108109) | [![Day 2](day2_thumb.png)](https://portion.io/app.html#exchange?ID=QmNoSnhQkjVcavebMCNvZ3sY3Y6eDVC5xZYdYEvravNcCN&chainID=11297108109) | [![Day 3](day3_thumb.png)](https://portion.io/app.html#exchange?ID=Qmb5b6iXnQcCp9x3XH1sZ7MsG5wjSHi4g4wzJRxvwnhyuR&chainID=11297108109) | [![Day 4](day4_thumb.png)](https://portion.io/app.html#exchange?ID=QmfCamLJ8ntwbvh3gNX8q9yPkLJRQV877S7erDCs5MFSKL&chainID=11297108109) | [![Day 5](day5_thumb.png)](https://portion.io/app.html#exchange?ID=QmdnA19C9ugL1VHvXCyS6o6MFxUqSSyxKw6qcdGUhGXgnT&chainID=11297108109)  | [![Day 6](day6_thumb.png)](https://portion.io/app.html#exchange?ID=QmT88LAgh8SnxniMq7oCsEo9LcAR6t9K3Se1D1VtpwgUjw&chainID=11297108109)  |
 |----|----|----|----|----|----|
-| [![Day 7](day7_thumb.png)](https://portion.io/app.html#exchange?ID=Qmd7XfAUJimCjpHXoebbqq4UH9W2ae8pK7pmbuAnw4ummN&chainID=11297108109) | [![Day 8](day8_thumb.png)](https://portion.io/app.html#exchange?ID=QmXd7WQdd9AR9jc1DRfQBgxmEgNXfGWX2xEZ9Ru3zRnCGz&chainID=11297108109)  | [![Day 9](day9_thumb.png)](https://portion.io/app.html#exchange?ID=QmWKK41HPkJcofUVHwfih4L6ASACsYUdSbgFHkvWXnpGq7&chainID=11297108109)  | [![Day 10](day10_thumb.png)](https://portion.io/app.html#exchange?ID=QmZqKgzpGKNDbwL1DyDRxR6L6KqbivvAB9EhNSVxhtfs84&chainID=11297108109) | ![Day 11](dummy.png) | ![Day 12](dummy.png) |
+| [![Day 7](day7_thumb.png)](https://portion.io/app.html#exchange?ID=Qmd7XfAUJimCjpHXoebbqq4UH9W2ae8pK7pmbuAnw4ummN&chainID=11297108109) | [![Day 8](day8_thumb.png)](https://portion.io/app.html#exchange?ID=QmXd7WQdd9AR9jc1DRfQBgxmEgNXfGWX2xEZ9Ru3zRnCGz&chainID=11297108109)  | [![Day 9](day9_thumb.png)](https://portion.io/app.html#exchange?ID=QmWKK41HPkJcofUVHwfih4L6ASACsYUdSbgFHkvWXnpGq7&chainID=11297108109)  | [![Day 10](day10_thumb.png)](https://portion.io/app.html#exchange?ID=QmZqKgzpGKNDbwL1DyDRxR6L6KqbivvAB9EhNSVxhtfs84&chainID=11297108109) | [![Day 11](day11_thumb.png)](https://portion.io/app.html#exchange?ID=QmRXFtfzZBq5aXAebt22xgDZoY3rP4JG5HEaMwcPftohR5&chainID=11297108109) | [![Day 12](day12_thumb.png)](https://portion.io/app.html#exchange?ID=QmNi1wWB2rzVRBjsokv8nxYTPRj2BngLGi3nfaSyV7Tvg1&chainID=11297108109) |
 | ![Day 13](dummy.png) | ![Day 14](dummy.png) | ![Day 15](dummy.png) | ![Day 16](dummy.png) | ![Day 17](dummy.png) | ![Day 18](dummy.png) |
 | ![Day 19](dummy.png) | ![Day 20](dummy.png) | ![Day 21](dummy.png) | ![Day 22](dummy.png) | ![Day 23](dummy.png) | ![Day 24](dummy.png) |
 
@@ -66,6 +66,17 @@ The price is also linked to the supply of course.
 | 24  | 1      | 1.0000000000000000 |
 
 ## Questions no one asked but we will still answer...
+
+### Do you give some?
+
+Yes, some are given to 5 randomly selected Twitter followers at the end of of
+each Klendr row. Four giveaways.
+
+[![Twitter giveaway](day12_giveaway.png)](https://twitter.com/KProjectOffical)
+
+### How do I know if I won?
+
+This is announced on our Twitter account.
 
 ### What if I buy one of each day?
 
