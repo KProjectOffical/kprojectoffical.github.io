@@ -93,6 +93,10 @@ No, absolutely not. For example, having one Day 1 NFT or 24 is the same.
 If you want to buy all the 24, feel free to do it, but it will only make you look like an egoistic person as no one else will be able to have any.
 This is not welcome on christmas. Be nice.
 
+### Why not all the supply is for sale on Portion?
+
+We keep some of each days for giveaways. We will put them all for sale after Dec. 24th.
+
 ### Have you been stealing these background pictures?
 
 Ah Ah, no. But you are right, it deserves credit:
@@ -101,6 +105,41 @@ Ah Ah, no. But you are right, it deserves credit:
 - [Andrea Piacquadio from Pexels](https://www.pexels.com/@olly)
 - [Monstera from Pexels](https://www.pexels.com/@gabby-k)
 - [Mati Mango from Pexels](https://www.pexels.com/@mati)
+
+### What are the themes for each row? How are these sub-series called?
+
+### Row 1, day 1 to 6: Portraits.
+
+Theme is individuals in everyday activities. Regular Arachis hypogaea doing what
+they usually do.
+
+### Row 2, day 7 to 12: Our problems.
+
+Theme is issues we care about:
+
+- Day 7: Financial system crisis and all the consequences
+- Day 8: Climate crisis and all the consequences
+- Day 9: Racism
+- Day 10: Women rights, violence and sexual abuse
+- Day 11: Wild life preservation and respect for animals (including us)
+- Day 12: LGBT+ fight and rights. AIDS.
+
+Note that there's no specific order of importance but still we wanted to start
+with finance as it's the root cause of all the other issues to us,
+and finish with the LGBT+ flag as background for some hope.
+
+### Row 3, day 13 to 18: Persistence.
+
+- Day 13: All the memories are in our head. We remember every minute.
+- Day 14: Surprise!
+- Day 15: Surprise!
+- Day 16: Surprise!
+- Day 17: Surprise!
+- Day 18: Surprise!
+
+### Row 4, day 19 to 24
+
+Surprise!
 
 ### Why don't you have a nice designed website?
 
