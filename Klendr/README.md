@@ -33,7 +33,7 @@ The price is also linked to the supply of course.
 | [![Day 1](day1_thumb.png)](https://portion.io/app.html#exchange?ID=QmYwxXgaoWigHypN6oHxUGuUWBSyTohEGhywcBZ9tDhvu2&chainID=11297108109) | [![Day 2](day2_thumb.png)](https://portion.io/app.html#exchange?ID=QmNoSnhQkjVcavebMCNvZ3sY3Y6eDVC5xZYdYEvravNcCN&chainID=11297108109) | [![Day 3](day3_thumb.png)](https://portion.io/app.html#exchange?ID=Qmb5b6iXnQcCp9x3XH1sZ7MsG5wjSHi4g4wzJRxvwnhyuR&chainID=11297108109) | [![Day 4](day4_thumb.png)](https://portion.io/app.html#exchange?ID=QmfCamLJ8ntwbvh3gNX8q9yPkLJRQV877S7erDCs5MFSKL&chainID=11297108109) | [![Day 5](day5_thumb.png)](https://portion.io/app.html#exchange?ID=QmdnA19C9ugL1VHvXCyS6o6MFxUqSSyxKw6qcdGUhGXgnT&chainID=11297108109)  | [![Day 6](day6_thumb.png)](https://portion.io/app.html#exchange?ID=QmT88LAgh8SnxniMq7oCsEo9LcAR6t9K3Se1D1VtpwgUjw&chainID=11297108109)  |
 |----|----|----|----|----|----|
 | [![Day 7](day7_thumb.png)](https://portion.io/app.html#exchange?ID=Qmd7XfAUJimCjpHXoebbqq4UH9W2ae8pK7pmbuAnw4ummN&chainID=11297108109) | [![Day 8](day8_thumb.png)](https://portion.io/app.html#exchange?ID=QmXd7WQdd9AR9jc1DRfQBgxmEgNXfGWX2xEZ9Ru3zRnCGz&chainID=11297108109)  | [![Day 9](day9_thumb.png)](https://portion.io/app.html#exchange?ID=QmWKK41HPkJcofUVHwfih4L6ASACsYUdSbgFHkvWXnpGq7&chainID=11297108109)  | [![Day 10](day10_thumb.png)](https://portion.io/app.html#exchange?ID=QmZqKgzpGKNDbwL1DyDRxR6L6KqbivvAB9EhNSVxhtfs84&chainID=11297108109) | [![Day 11](day11_thumb.png)](https://portion.io/app.html#exchange?ID=QmRXFtfzZBq5aXAebt22xgDZoY3rP4JG5HEaMwcPftohR5&chainID=11297108109) | [![Day 12](day12_thumb.png)](https://portion.io/app.html#exchange?ID=QmNi1wWB2rzVRBjsokv8nxYTPRj2BngLGi3nfaSyV7Tvg1&chainID=11297108109) |
-| [![Day 13](Row3day13_thumb.png)](https://portion.io/app.html#exchange?ID=QmQqxeDsCMLr24BPPH6ezgceqP2shuZfHCKhoLU9MvoP5B&chainID=11297108109) | ![Day 14](dummy.png) | ![Day 15](dummy.png) | ![Day 16](dummy.png) | ![Day 17](dummy.png) | ![Day 18](dummy.png) |
+| [![Day 13](Row3day13_thumb.png)](https://portion.io/app.html#exchange?ID=QmQqxeDsCMLr24BPPH6ezgceqP2shuZfHCKhoLU9MvoP5B&chainID=11297108109) | [![Day 14](Row3day14_thumb.png)](https://portion.io/app.html#exchange?ID=Qmd1mj3MNGyAwyZnMFZs71dzuu7iERTzEXKYvCkr51hvkn&chainID=11297108109) | ![Day 15](dummy.png) | ![Day 16](dummy.png) | ![Day 17](dummy.png) | ![Day 18](dummy.png) |
 | ![Day 19](dummy.png) | ![Day 20](dummy.png) | ![Day 21](dummy.png) | ![Day 22](dummy.png) | ![Day 23](dummy.png) | ![Day 24](dummy.png) |
 
 ## Supplies and prices
@@ -131,7 +131,7 @@ and finish with the LGBT+ flag as background for some hope.
 ### Row 3, day 13 to 18: Persistence.
 
 - Day 13: All the memories are in our head. We remember every minute.
-- Day 14: Surprise!
+- Day 14: Ideas spin around.
 - Day 15: Surprise!
 - Day 16: Surprise!
 - Day 17: Surprise!
