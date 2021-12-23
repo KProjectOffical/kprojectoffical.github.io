@@ -38,6 +38,8 @@ The price is also linked to the supply of course.
 
 ## Supplies and prices
 
+![Supply and prices chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDmPp_BI3HARqgBpGXSlAsfXckuYClt-T3eKR24I--g4YNK5_FtD75dUldGi_-7JckxNPNGDYRRVYE/pubchart?oid=1082778710&format=image)
+
 | Day | Supply | Price (WETH)       |
 |-----|--------|--------------------|
 | 1   | 24     | 0.0416666666666667 |
