@@ -3,7 +3,7 @@
 What would you do when you don't have enough time to write code for a project before Dec. 1st?
 Create an NFT that will provide VIP access to the project once ready.
 
-See the [Project K collection in Portion on the Palm network](https://portion.io/nft-marketplace?category=&collection=&artist=ProjectK&chains=Palm&sortBy=newest).
+See the [Project K collection in Portion on the Palm network](https://portion.io/nft-marketplace?category=&collection=&artist=ProjectK&chains=Palm&sortBy=newest&verified=false&tags=).
 
 Day 1 is the first of the Advent Klendr project pre NFT.
 There will be 24 of them as the 24 days before christmas.
@@ -28,7 +28,7 @@ IT LOOKS LIKE A TREE!!! You get it? A f****** christmas tree!!!
 The price is also linked to the supply of course.
 `Price of each NFT = Price of the 24th NFT / the current NFT supply`
 
-## Buy the NFTs on [Portion](https://portion.io/nft-marketplace?category=&collection=&artist=ProjectK&chains=Palm&sortBy=newest)
+## Buy the NFTs on [Portion](https://portion.io/nft-marketplace?category=&collection=&artist=ProjectK&chains=Palm&sortBy=newest&verified=false&tags=)
 
 | [![Day 1](day1_thumb.png)](https://portion.io/app.html#exchange?ID=QmYwxXgaoWigHypN6oHxUGuUWBSyTohEGhywcBZ9tDhvu2&chainID=11297108109) | [![Day 2](day2_thumb.png)](https://portion.io/app.html#exchange?ID=QmNoSnhQkjVcavebMCNvZ3sY3Y6eDVC5xZYdYEvravNcCN&chainID=11297108109) | [![Day 3](day3_thumb.png)](https://portion.io/app.html#exchange?ID=Qmb5b6iXnQcCp9x3XH1sZ7MsG5wjSHi4g4wzJRxvwnhyuR&chainID=11297108109) | [![Day 4](day4_thumb.png)](https://portion.io/app.html#exchange?ID=QmfCamLJ8ntwbvh3gNX8q9yPkLJRQV877S7erDCs5MFSKL&chainID=11297108109) | [![Day 5](day5_thumb.png)](https://portion.io/app.html#exchange?ID=QmdnA19C9ugL1VHvXCyS6o6MFxUqSSyxKw6qcdGUhGXgnT&chainID=11297108109)  | [![Day 6](day6_thumb.png)](https://portion.io/app.html#exchange?ID=QmT88LAgh8SnxniMq7oCsEo9LcAR6t9K3Se1D1VtpwgUjw&chainID=11297108109)  |
 |----|----|----|----|----|----|
@@ -74,7 +74,7 @@ The price is also linked to the supply of course.
 Yes, some are given to 5 randomly selected Twitter followers at the end of of
 each Klendr row. Four giveaways.
 
-[![Twitter giveaway](day12_giveaway.png)](https://twitter.com/KProjectOffical)
+[![Twitter giveaway](final_giveaway.png)](https://twitter.com/KProjectOffical)
 
 ### How do I know if I won?
 
@@ -134,14 +134,19 @@ and finish with the LGBT+ flag as background for some hope.
 
 - Day 13: All the memories are in our head. We remember every minute.
 - Day 14: Ideas spin around.
-- Day 15: Surprise!
-- Day 16: Surprise!
-- Day 17: Surprise!
-- Day 18: Surprise!
+- Day 15: This is a-maze-ing!
+- Day 16: Percolation island.
+- Day 17: Streamlined.
+- Day 18: You can't avoid collisions.
 
 ### Row 4, day 19 to 24
 
-Surprise!
+- Day 19: Row four, column one, step one.
+- Day 20: Grand opening.
+- Day 21: Out of the shell.
+- Day 22: get naked.
+- Day 23: Just simple and plain.
+- Day 24: Final surprise!
 
 ### Why don't you have a nice designed website?
 
@@ -156,7 +161,7 @@ Advent Klendr is part of the Project K. Read project manifest on https://kprojec
 Find Project K on:
 
 - [Twitter](https://twitter.com/KProjectOffical)
-- [Portion](https://portion.io/nft-marketplace?category=digital&collection=&artist=ProjectK&chains=Palm&sortBy=newest) on [Palm network](https://palm.io/)
+- [Portion](https://portion.io/nft-marketplace?category=&collection=&artist=ProjectK&chains=Palm&sortBy=newest&verified=false&tags=) on [Palm network](https://palm.io/)
 
 
 ---
